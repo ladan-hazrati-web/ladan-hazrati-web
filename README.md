@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [ladan-hazrati-web](ladan-hazrati-web)
 
-- 💬 Ask me about **Grid,SASS,Flex,CSS3,HTML5**
+- 💬 Ask me about **Bootstrap,Responsive Web Design,Grid,SASS,Flex,CSS3,HTML5**
 
 - 📫 How to reach me **ms_hazrati@yahoo.com**
 
