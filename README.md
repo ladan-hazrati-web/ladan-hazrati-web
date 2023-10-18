@@ -24,8 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ladan-hazrati-web&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ladan-hazrati-web&icon=6&color=10)](https://visitcount.itsvg.in)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ladan-hazrati-web&label=Profile%20views&color=0e75b6&style=flat" alt="ladan-hazrati-web" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![button](https://github.com/moeinparvizi/moeinparvizi/assets/38692466/7987beaa-0b33-4086-a9c0-db783559f81f)
