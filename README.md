@@ -2,9 +2,7 @@
 
 
 
-# 💫 About Me:
-
-🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end<br>⚡ about me :Hi🙋🏻‍♀️I'm Ladan Hazrati 🥰  I am learning frontend at Parnian school. I try to become a frontend developer every day. I have the skills of html, css, sass, flex, grid,bootstrap,tailwind,javascript👩‍💻
+# 💫 About Me:...
 
 
 ## 🌐 Socials:
