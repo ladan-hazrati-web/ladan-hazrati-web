@@ -1,7 +1,7 @@
 
 <div align='center'>
     <h1>
-    <img src="./Frontend.png" alt="ladan-hazrati-web" width="200px" />
+    <img src="./Frontend.png" alt="ladan-hazrati-web" width="400px" />
   </h1>
   <h4>This is Ladan Hazrati! A Junior Frontend Programmer</h4>
 </div>
@@ -20,6 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 ## Socials:
 
