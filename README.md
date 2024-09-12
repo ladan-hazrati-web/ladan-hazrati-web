@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="soufilearn logo" width="200px" />
+  <img src="./logo.png" alt="ladan-hazrati-web" width="100px" />
 </div>
 
 <div align='center'>
@@ -28,4 +28,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ladan_hazrati_web)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ladanhl)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&logoColor=white)](https://ir.linkedin.com/in/ladan-hazrati-web)
+[![Linkedin](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://ir.linkedin.com/in/ladan-hazrati-web)
