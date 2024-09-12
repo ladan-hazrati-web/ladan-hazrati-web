@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="./logo.png" alt="ladan-hazrati-web" width="100px" />
-</div>
 
 <div align='center'>
     <h1>
-    <img src="./Frontend.png" alt="ladan-hazrati-web" />
+    <img src="./Frontend.png" alt="ladan-hazrati-web" width="200px" />
   </h1>
   <h4>This is Ladan Hazrati! A Junior Frontend Programmer</h4>
 </div>
