@@ -1,7 +1,7 @@
 
 <div align='center'>
     <h1>
-    <img src="./Frontend.png" alt="ladan-hazrati-web" width="400px" />
+    <img src="./developer.gif" alt="ladan-hazrati-web" width="400px" />
   </h1>
   <h4>This is Ladan Hazrati! A Junior Frontend Programmer</h4>
 </div>
