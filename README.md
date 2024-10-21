@@ -17,8 +17,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/styledcompnents-%2338B2AC.svg?style=for-the-badge&logo=styled-compnents&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/Ant%20Design-%2338B2AC.svg?style=for-the-badge&logo=antdesign&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styledcomponents-%2338B2AC.svg?style=for-the-badge&logo=styled-compnents&logoColor=white)
+![AntDesign](https://img.shields.io/badge/Ant%20Design-%2338B2AC.svg?style=for-the-badge&logo=antdesign&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
