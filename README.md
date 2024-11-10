@@ -5,7 +5,9 @@
   </h1>
   <h4>This is Ladan Hazrati! A Junior Frontend Programmer</h4>
 </div>
- 
+## About Me
+I'm Ladan, a front-end developer skilled in HTML, CSS, JavaScript, and React. I focus on creating responsive, user-friendly web applications with modern tools like Tailwind CSS and Styled-components. My goal is to build seamless, performance-optimized websites that provide intuitive user experiences. Always learning and passionate about web development, I’m excited to contribute to impactful projects
+
 ##  My Expertise 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
