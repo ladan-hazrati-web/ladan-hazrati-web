@@ -3,7 +3,7 @@
     <h1>
     <img src="./IMG_20241110_175931.jpg" alt="ladan-hazrati-web" width="400px" />
   </h1>
-  <h4>This is Ladan Hazrati! A Junior Frontend Programmer</h4>
+  <h4>This is Ladan Hazrati! Frontend Programmer</h4>
 </div>
  <h2>About Me</h2>
 <p>I'm Ladan, a front-end developer skilled in HTML, CSS, JavaScript, and React. I focus on creating responsive, user-friendly web applications with modern tools like Tailwind CSS and Styled-components. My goal is to build seamless, performance-optimized websites that provide intuitive user experiences. Always learning and passionate about web development, I’m excited to contribute to impactful projects</p>
